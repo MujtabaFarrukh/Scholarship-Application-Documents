@@ -71,18 +71,18 @@ I have secured several **highly competitive international scholarships and admis
 
 | Scholarship          | Institution            | Region   |
 | :------------------- | :--------------------- | :------- |
-| Erasmus Mundus EMJMD | European Consortium    | FR DE ES |
-| DAAD TGGS            | RWTH Aachen / KMUTNB   | DE TH    |
-| Türkiye Bursları     | Government Scholarship | TR       |
-| KAIST                | KAIST University       | KR       |
-| Universiti Malaya    | UM (QS #65)            | MY       |
+| Erasmus Mundus EMJMD | European Consortium    | 🇫🇷 🇩🇪 🇪🇸 |
+| DAAD TGGS            | RWTH Aachen / KMUTNB   | 🇩🇪 🇹🇭    |
+| Türkiye Bursları     | Government Scholarship | 🇹🇷       |
+| KAIST                | KAIST University       | 🇰🇷       |
+| Universiti Malaya    | UM (QS #65)            | 🇲🇾       |
 
 I have also advanced through **PhD opportunities in:**
 
-US United States<br/>
-ES Spain<br/>
-KR South Korea<br/>
-MY Malaysia<br/>
+🇺🇸 United States<br/>
+🇪🇸 Spain<br/>
+🇰🇷 South Korea<br/>
+🇲🇾 Malaysia<br/>
 
 Through these experiences I gained deep insight into:
 
