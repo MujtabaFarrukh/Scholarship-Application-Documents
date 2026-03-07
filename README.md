@@ -41,7 +41,7 @@ This repository gives you **real examples** used for:
 - KAIST
 - Global PhD applications
 
-So you can **understand how elite applications are structured.**
+These are **real documents from people who have actually been selected and awarded these prestigious scholarships.** You can **understand how elite applications are structured.**
 
 ---
 
@@ -69,20 +69,20 @@ Electrical Engineer | Renewable Energy Specialist | Global Scholarship Recipient
 
 I have secured several **highly competitive international scholarships and admissions**, including:
 
-| Scholarship          | Institution            | Region                                                                                                                                                                                                      |
-| :------------------- | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Erasmus Mundus EMJMD | European Consortium    | <img src="https://flagcdn.com/w20/fr.png" width="16" alt="France"/> <img src="https://flagcdn.com/w20/de.png" width="16" alt="Germany"/> <img src="https://flagcdn.com/w20/es.png" width="16" alt="Spain"/> |
-| DAAD TGGS            | RWTH Aachen / KMUTNB   | <img src="https://flagcdn.com/w20/de.png" width="16" alt="Germany"/> <img src="https://flagcdn.com/w20/th.png" width="16" alt="Thailand"/>                                                                  |
-| Türkiye Bursları     | Government Scholarship | <img src="https://flagcdn.com/w20/tr.png" width="16" alt="Turkey"/>                                                                                                                                         |
-| KAIST                | KAIST University       | <img src="https://flagcdn.com/w20/kr.png" width="16" alt="South Korea"/>                                                                                                                                    |
-| Universiti Malaya    | UM (QS #65)            | <img src="https://flagcdn.com/w20/my.png" width="16" alt="Malaysia"/>                                                                                                                                       |
+| Scholarship          | Institution            | Region   |
+| :------------------- | :--------------------- | :------- |
+| Erasmus Mundus EMJMD | European Consortium    | FR DE ES |
+| DAAD TGGS            | RWTH Aachen / KMUTNB   | DE TH    |
+| Türkiye Bursları     | Government Scholarship | TR       |
+| KAIST                | KAIST University       | KR       |
+| Universiti Malaya    | UM (QS #65)            | MY       |
 
 I have also advanced through **PhD opportunities in:**
 
-<img src="https://flagcdn.com/w20/us.png" width="16" alt="United States"/> United States<br/>
-<img src="https://flagcdn.com/w20/es.png" width="16" alt="Spain"/> Spain<br/>
-<img src="https://flagcdn.com/w20/kr.png" width="16" alt="South Korea"/> South Korea<br/>
-<img src="https://flagcdn.com/w20/my.png" width="16" alt="Malaysia"/> Malaysia<br/>
+US United States<br/>
+ES Spain<br/>
+KR South Korea<br/>
+MY Malaysia<br/>
 
 Through these experiences I gained deep insight into:
 
