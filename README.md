@@ -1,10 +1,13 @@
 <div align="center">
 
-<h1 align="center">🎓 Scholarship Application Documents</h1>
+<!-- Dynamic Luxury Header -->
+<a href="https://github.com/MujtabaFarrukh/Scholarship-Application-Documents">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=36&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=🎓+Scholarship+Application+Documents;Elite+SOPs,+CVs,+and+Cover+Letters;Curated+by+Engr.+Mujtaba+Farrukh" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <b>Real SOPs, CVs, and Cover Letters that secured the world's most competitive scholarships.</b><br/>
-  <i>Curated by Engr. Mujtaba Farrukh</i>
+  <b>Real application materials that secured the world's most competitive scholarships.</b><br/>
+  <i>An uncompromising standard of excellence.</i>
 </p>
 
 <p align="center">
@@ -19,21 +22,19 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://mujtabafarrukh.github.io/Scholarship-Application-Documents/"><b>🌐 View Premium Portfolio Website</b></a>
-</p>
-
 </div>
 
 ---
 
 <div align="center">
-  <h3>✨ Personal 1:1 Mentorship & Document Review ✨</h3>
-  <p>For personalized 1:1 guidance, professional SOP review, CV improvement, or strategic scholarship consultation:</p>
+  <h2>✨ Exclusive 1:1 Mentorship & Document Review ✨</h2>
+  <p>For personalized 1:1 guidance, elite SOP review, CV improvement, or strategic scholarship consultation:</p>
+  <br/>
   <a href="https://cutt.ly/ReviewDocuments">
     <img src="https://img.shields.io/badge/Book_a_Consultation-111111?style=for-the-badge&logo=googlemeet&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="Book 1:1 Consultation" />
   </a>
-  <br/><i>(Transform your application with expert feedback)</i>
+  <br/><br/>
+  <i>Transform your application with expert, uncompromising feedback.</i>
 </div>
 
 ---
@@ -42,7 +43,7 @@
 
 This repository contains **real, successful scholarship application documents** including Statements of Purpose (SOPs), Academic CVs, Motivation Letters, Cover Letters, and more.
 
-Whether you are applying for **Erasmus Mundus**, **DAAD**, **Türkiye Bursları**, **KAIST**, or any other prestigious global scholarship, this resource is designed to give you a clear, uncompromising standard of what high-quality applications look like.
+Whether you are applying for **Erasmus Mundus**, **DAAD**, **Türkiye Bursları**, **KAIST**, or any other prestigious global scholarship, this resource is designed to give you a clear, uncompromising standard of what elite applications look like.
 
 **Keywords:** Erasmus Mundus SOP example · Scholarship Statement of Purpose sample · PhD SOP example · Scholarship CV template · Motivation letter for Erasmus Mundus · DAAD SOP sample
 
@@ -52,13 +53,13 @@ Whether you are applying for **Erasmus Mundus**, **DAAD**, **Türkiye Bursları*
 
 **Engr. Mujtaba Farrukh** is an internationally recognized scholar who has secured several of the world's most elite scholarships and university admissions:
 
-| Scholarship / Admission                        | Institution           | Location                 |
-| ---------------------------------------------- | --------------------- | ------------------------ |
-| 🇪🇺 **Erasmus Mundus EMJMD**                    | Multiple Universities | France · Germany · Spain |
-| 🇩🇪 **DAAD TGGS Scholarship**                   | RWTH Aachen & KMUTNB  | Germany · Thailand       |
-| 🇹🇷 **Türkiye Bursları Government Scholarship** | —                     | Turkey                   |
-| 🇰🇷 **KAIST Scholarship**                       | KAIST (QS #56)        | South Korea              |
-| 🇲🇾 **Universiti Malaya Scholarship**           | UM (QS #65)           | Malaysia                 |
+| Scholarship / Admission      | Institution            | Location                 |
+| :--------------------------- | :--------------------- | :----------------------- |
+| 🇪🇺 **Erasmus Mundus EMJMD**  | Multiple Universities  | France · Germany · Spain |
+| 🇩🇪 **DAAD TGGS Scholarship** | RWTH Aachen & KMUTNB   | Germany · Thailand       |
+| 🇹🇷 **Türkiye Bursları**      | Government Scholarship | Turkey                   |
+| 🇰🇷 **KAIST Scholarship**     | KAIST (QS #56)         | South Korea              |
+| 🇲🇾 **Universiti Malaya**     | UM (QS #65)            | Malaysia                 |
 
 He has also advanced through highly competitive PhD application processes in the **USA, Spain, South Korea, and Malaysia**, making him one of the most experienced scholarship applicants sharing proven materials publicly.
 
@@ -66,9 +67,9 @@ He has also advanced through highly competitive PhD application processes in the
 
 ## 📂 Current Documents
 
-| Folder            | Document                                        | Description                                           |
-| ----------------- | ----------------------------------------------- | ----------------------------------------------------- |
-| `Erasmus-Mundus/` | [DREAM-SOP.pdf](./Erasmus-Mundus/DREAM-SOP.pdf) | Erasmus Mundus DREAM Programme — Statement of Purpose |
+| Folder            | Document                                            | Description                                           |
+| :---------------- | :-------------------------------------------------- | :---------------------------------------------------- |
+| `Erasmus-Mundus/` | [**DREAM-SOP.pdf**](./Erasmus-Mundus/DREAM-SOP.pdf) | Erasmus Mundus DREAM Programme — Statement of Purpose |
 
 _(More high-caliber documents are continuously being added. Star the repository to stay updated!)_
 
@@ -78,16 +79,16 @@ _(More high-caliber documents are continuously being added. Star the repository 
 
 The following types of premium documents will be added progressively:
 
-- 📝 SOPs from multiple top-tier scholarship winners (Erasmus Mundus, DAAD, KAIST, etc.)
-- 📄 Professional Academic CV templates designed for success
-- ✉️ Persuasive Motivation Letters & Cover Letters
-- 📋 Recommendation Letter samples & architecture
-- 🔬 High-impact PhD Research Proposals
-- 💼 Elite Internship Application Documents
+- 📝 **Elite SOPs** from multiple top-tier scholarship winners
+- 📄 **Professional Academic CV templates** designed for success
+- ✉️ **Persuasive Motivation Letters** & Cover Letters
+- 📋 **Recommendation Letter** robust architectures
+- 🔬 **High-impact PhD Research Proposals**
+- 💼 **Elite Internship** Application Documents
 
 ---
 
-## 🤝 Community Contributions
+## 🤝 Leave a Legacy
 
 Are you an elite scholarship winner wanting to leave a legacy?
 
@@ -109,7 +110,7 @@ _Elevating others is the true mark of a leader._
 > - Analyze them to master the structure, sophisticated tone, and strategic approach of successful applications.
 > - Write your **own original application** that deeply reflects your unique experiences and ambitions.
 >
-> Plagiarism will instantly disqualify your application and violates the strict academic integrity policies of all global scholarship boards.
+> _Plagiarism will instantly disqualify your application and violates the strict academic integrity policies of all global scholarship boards._
 
 ---
 
@@ -140,7 +141,7 @@ Stay updated with new premium scholarship resources, elite application strategie
 
 <div align="center">
   <p>
-    Built with pursuit of excellence to help students achieve their international scholarship dreams.
+    Built with a pursuit of excellence to help students achieve their international scholarship dreams.
     <br/>
     <br/>
     <b>© 2026 Engr. Mujtaba Farrukh</b> — All documents remain the intellectual property of their respective authors.
