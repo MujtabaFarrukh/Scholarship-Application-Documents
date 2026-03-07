@@ -12,29 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers">
-    <img src="https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&color=D4AF37&labelColor=111111&logo=github&logoColor=D4AF37" alt="Give this project a Star!" />
+    <img src="https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&color=00FFCC&labelColor=000000&logo=github&logoColor=00FFCC" alt="Give this project a Star!" />
   </a>
   <a href="https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/network/members">
-    <img src="https://img.shields.io/github/forks/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&color=D4AF37&labelColor=111111&logo=github&logoColor=D4AF37" alt="Fork this repository" />
+    <img src="https://img.shields.io/github/forks/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&color=B026FF&labelColor=000000&logo=github&logoColor=B026FF" alt="Fork this repository" />
   </a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents&color=D4AF37&labelColor=111111" alt="Visitors" />
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents&color=00FFCC&labelColor=000000" alt="Visitors" />
   </a>
 </p>
 
-</div>
-
----
-
-<div align="center">
-  <h2>✨ Exclusive 1:1 Mentorship & Document Review ✨</h2>
-  <p>For personalized 1:1 guidance, elite SOP review, CV improvement, or strategic scholarship consultation:</p>
-  <br/>
-  <a href="https://cutt.ly/ReviewDocuments">
-    <img src="https://img.shields.io/badge/Book_a_Consultation-111111?style=for-the-badge&logo=googlemeet&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="Book 1:1 Consultation" />
-  </a>
-  <br/><br/>
-  <i>Transform your application with expert, uncompromising feedback.</i>
 </div>
 
 ---
@@ -49,7 +36,11 @@ Whether you are applying for **Erasmus Mundus**, **DAAD**, **Türkiye Bursları*
 
 ---
 
-## 👤 About Engr. Mujtaba Farrukh
+<br/>
+<a href="https://github.com/MujtabaFarrukh">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=2000&color=00FFCC&center=false&vCenter=true&width=600&height=50&lines=🚀+ENGR.+MUJTABA+FARRUKH;GLOBAL+ELITE+SCHOLAR;SYSTEMS+ARCHITECT" alt="Engr. Mujtaba Farrukh" />
+</a>
+<br/>
 
 **Engr. Mujtaba Farrukh** is an internationally recognized scholar who has secured several of the world's most elite scholarships and university admissions:
 
@@ -62,16 +53,6 @@ Whether you are applying for **Erasmus Mundus**, **DAAD**, **Türkiye Bursları*
 | 🇲🇾 **Universiti Malaya**     | UM (QS #65)            | Malaysia                 |
 
 He has also advanced through highly competitive PhD application processes in the **USA, Spain, South Korea, and Malaysia**, making him one of the most experienced scholarship applicants sharing proven materials publicly.
-
----
-
-## 📂 Current Documents
-
-| Folder            | Document                                            | Description                                           |
-| :---------------- | :-------------------------------------------------- | :---------------------------------------------------- |
-| `Erasmus-Mundus/` | [**DREAM-SOP.pdf**](./Erasmus-Mundus/DREAM-SOP.pdf) | Erasmus Mundus DREAM Programme — Statement of Purpose |
-
-_(More high-caliber documents are continuously being added. Star the repository to stay updated!)_
 
 ---
 
@@ -114,26 +95,29 @@ _Elevating others is the true mark of a leader._
 
 ---
 
-## 🌐 Connect with Engr. Mujtaba Farrukh
+<br/>
+<a href="https://github.com/MujtabaFarrukh">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=2000&color=B026FF&center=false&vCenter=true&width=600&height=50&lines=🌐+CONNECT+WITH+ME" alt="Connect with me" />
+</a>
 
 Stay updated with new premium scholarship resources, elite application strategies, and exclusive tips:
 
 <div align="center">
   <br/>
   <a href="https://linkedin.com/in/mujtabafarrukh">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC&color=00FFCC&labelColor=000000" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/mujtabafarrukh">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B026FF&color=B026FF&labelColor=000000" alt="Instagram"/>
   </a>
   <a href="https://youtube.com/@mujtabafarrukh">
-    <img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FFCC&color=00FFCC&labelColor=000000" alt="YouTube"/>
   </a>
   <a href="https://facebook.com/engrmujtabafarrukh">
-    <img src="https://img.shields.io/badge/Facebook-111111?style=for-the-badge&logo=facebook&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=B026FF&color=B026FF&labelColor=000000" alt="Facebook"/>
   </a>
   <a href="https://whatsapp.com/channel/0029VaboZXLKbYMFfEXRKe1e">
-    <img src="https://img.shields.io/badge/WhatsApp_Channel-111111?style=for-the-badge&logo=whatsapp&logoColor=D4AF37&color=D4AF37&labelColor=111111" alt="WhatsApp Channel"/>
+    <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=00FFCC&color=00FFCC&labelColor=000000" alt="WhatsApp Channel"/>
   </a>
 </div>
 
