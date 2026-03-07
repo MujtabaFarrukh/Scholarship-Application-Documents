@@ -139,7 +139,7 @@ Your application must always be **authentic and original.**
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=MujtabaFarrukh/Scholarship-Application-Documents&type=Date)](https://star-history.com/#MujtabaFarrukh/Scholarship-Application-Documents)
+[![Star History Chart](https://api.star-history.com/svg?repos=MujtabaFarrukh/Scholarship-Application-Documents&type=Date&legend=top-left)](https://star-history.com/#MujtabaFarrukh/Scholarship-Application-Documents&Date)
 
 </div>
 
