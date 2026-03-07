@@ -1,133 +1,190 @@
 <div align="center">
 
-<!-- Dynamic Luxury Header -->
-<a href="https://github.com/MujtabaFarrukh/Scholarship-Application-Documents">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=800&size=36&pause=1000&color=D4AF37&center=true&vCenter=true&width=800&height=100&lines=🎓+Scholarship+Application+Documents;Elite+SOPs,+CVs,+and+Cover+Letters;Curated+by+Engr.+Mujtaba+Farrukh" alt="Typing SVG" />
-</a>
+<!-- Animated Premium Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F5FF&height=200&section=header&text=Scholarship%20Application%20Vault&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<p align="center">
-  <b>Real application materials that secured the world's most competitive scholarships.</b><br/>
-  <i>An uncompromising standard of excellence.</i>
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers">
-    <img src="https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&color=00FFCC&labelColor=000000&logo=github&logoColor=00FFCC" alt="Give this project a Star!" />
-  </a>
-  <a href="https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/network/members">
-    <img src="https://img.shields.io/github/forks/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&color=B026FF&labelColor=000000&logo=github&logoColor=B026FF" alt="Fork this repository" />
-  </a>
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents&color=00FFCC&labelColor=000000" alt="Visitors" />
-  </a>
+<div align="center">
+
+# 🎓 Scholarship Application Vault
+
+### Elite SOPs • Academic CVs • Motivation Letters • Research Proposals
+
+<p>
+The most sophisticated open repository of real scholarship application materials.
 </p>
 
 </div>
 
 ---
 
-## 📖 About This Repository
+<div align="center">
 
-This repository contains **real, successful scholarship application documents** including Statements of Purpose (SOPs), Academic CVs, Motivation Letters, Cover Letters, and more.
+[![Stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)
+[![Forks](https://img.shields.io/github/forks/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/network)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents)
 
-Whether you are applying for **Erasmus Mundus**, **DAAD**, **Türkiye Bursları**, **KAIST**, or any other prestigious global scholarship, this resource is designed to give you a clear, uncompromising standard of what elite applications look like.
-
-**Keywords:** Erasmus Mundus SOP example · Scholarship Statement of Purpose sample · PhD SOP example · Scholarship CV template · Motivation letter for Erasmus Mundus · DAAD SOP sample
-
----
-
-<br/>
-<a href="https://github.com/MujtabaFarrukh">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&pause=2000&color=00FFCC&center=false&vCenter=true&width=600&height=50&lines=🚀+ENGR.+MUJTABA+FARRUKH;GLOBAL+ELITE+SCHOLAR;SYSTEMS+ARCHITECT" alt="Engr. Mujtaba Farrukh" />
-</a>
-<br/>
-
-**Engr. Mujtaba Farrukh** is an internationally recognized scholar who has secured several of the world's most elite scholarships and university admissions:
-
-| Scholarship / Admission      | Institution            | Location                 |
-| :--------------------------- | :--------------------- | :----------------------- |
-| 🇪🇺 **Erasmus Mundus EMJMD**  | Multiple Universities  | France · Germany · Spain |
-| 🇩🇪 **DAAD TGGS Scholarship** | RWTH Aachen & KMUTNB   | Germany · Thailand       |
-| 🇹🇷 **Türkiye Bursları**      | Government Scholarship | Turkey                   |
-| 🇰🇷 **KAIST Scholarship**     | KAIST (QS #56)         | South Korea              |
-| 🇲🇾 **Universiti Malaya**     | UM (QS #65)            | Malaysia                 |
-
-He has also advanced through highly competitive PhD application processes in the **USA, Spain, South Korea, and Malaysia**, making him one of the most experienced scholarship applicants sharing proven materials publicly.
+</div>
 
 ---
 
-## 🔜 Future Resources
+# ✨ Why This Repository Exists
 
-The following types of premium documents will be added progressively:
+Most students fail scholarships not because they are weak — but because **they have never seen a successful application.**
 
-- 📝 **Elite SOPs** from multiple top-tier scholarship winners
-- 📄 **Professional Academic CV templates** designed for success
-- ✉️ **Persuasive Motivation Letters** & Cover Letters
-- 📋 **Recommendation Letter** robust architectures
-- 🔬 **High-impact PhD Research Proposals**
-- 💼 **Elite Internship** Application Documents
+This repository gives you **real examples** used for:
 
----
+- Erasmus Mundus
+- DAAD
+- Türkiye Bursları
+- KAIST
+- Global PhD applications
 
-## 🤝 Leave a Legacy
-
-Are you an elite scholarship winner wanting to leave a legacy?
-
-**Contributions are highly welcomed!** If you have won a highly competitive scholarship and would like to share your SOP, CV, or motivation letter to inspire the next generation of global leaders, please:
-
-1. Fork this repository
-2. Add your document(s) to the relevant folder
-3. Submit a Pull Request with a brief description of the scholarship
-
-_Elevating others is the true mark of a leader._
+So you can **understand how elite applications are structured.**
 
 ---
 
-## ⚠️ Important Notice — Please Read
+# 🧠 What You Will Find Here
 
-> **These elite documents are shared for educational and inspiration purposes ONLY.**
->
-> - Do **NOT** copy or plagiarize these documents.
-> - Analyze them to master the structure, sophisticated tone, and strategic approach of successful applications.
-> - Write your **own original application** that deeply reflects your unique experiences and ambitions.
->
-> _Plagiarism will instantly disqualify your application and violates the strict academic integrity policies of all global scholarship boards._
+Elite Scholarship Resources
+
+📄 Statement of Purpose (SOP)  
+📄 Academic CV Templates  
+📄 Motivation Letters  
+📄 Cover Letters  
+📄 Recommendation Letters  
+📄 PhD Research Proposals  
+📄 Internship Applications
+
+These are **real documents used in successful scholarship applications.**
 
 ---
 
-<br/>
-<a href="https://github.com/MujtabaFarrukh">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&pause=2000&color=B026FF&center=false&vCenter=true&width=600&height=50&lines=🌐+CONNECT+WITH+ME" alt="Connect with me" />
-</a>
+# 🌍 About the Creator
 
-Stay updated with new premium scholarship resources, elite application strategies, and exclusive tips:
+## Engr. Mujtaba Farrukh
+
+Electrical Engineer | Renewable Energy Specialist | Global Scholarship Recipient
+
+I have secured several **highly competitive international scholarships and admissions**, including:
+
+| Scholarship          | Institution            | Region   |
+| -------------------- | ---------------------- | -------- |
+| Erasmus Mundus EMJMD | European Consortium    | 🇫🇷 🇩🇪 🇪🇸 |
+| DAAD TGGS            | RWTH Aachen / KMUTNB   | 🇩🇪 🇹🇭    |
+| Türkiye Bursları     | Government Scholarship | 🇹🇷       |
+| KAIST                | KAIST University       | 🇰🇷       |
+| Universiti Malaya    | UM (QS #65)            | 🇲🇾       |
+
+I have also advanced through **PhD opportunities in:**
+
+🇺🇸 United States  
+🇪🇸 Spain  
+🇰🇷 South Korea  
+🇲🇾 Malaysia
+
+Through these experiences I gained deep insight into:
+
+- Scholarship selection committees
+- Research proposal expectations
+- Academic storytelling
+
+---
+
+# � Current Resources
+
+### Erasmus Mundus DREAM Program
+
+📄 **Statement of Purpose**
+
+More elite documents will be added soon.
+
+---
+
+# 🧬 Future Expansions
+
+This repository will evolve into a **global scholarship knowledge base**, including:
+
+✔ SOPs from multiple scholarship winners  
+✔ Professional CV templates  
+✔ Winning scholarship essays  
+✔ PhD research proposals  
+✔ Internship applications  
+✔ Interview preparation resources
+
+---
+
+# � For Scholarship Winners
+
+If you have secured a **prestigious scholarship**, you are welcome to contribute your documents.
+
+Together we can build the **largest scholarship resource library for students worldwide.**
+
+---
+
+# ⚠ Academic Integrity
+
+These documents are shared **only for educational purposes.**
+
+Do **NOT copy them directly.**
+
+Use them to understand:
+
+- structure
+- storytelling
+- strategy
+
+Your application must always be **authentic and original.**
+
+---
+
+# ⭐ Support This Repository
+
+If this repository helped you even a little:
+
+### ⭐ Please Star the Repository
+
+It allows more students to discover these resources.
+
+---
+
+# 📈 Repository Growth
 
 <div align="center">
-  <br/>
-  <a href="https://linkedin.com/in/mujtabafarrukh">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFCC&color=00FFCC&labelColor=000000" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/mujtabafarrukh">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=B026FF&color=B026FF&labelColor=000000" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@mujtabafarrukh">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FFCC&color=00FFCC&labelColor=000000" alt="YouTube"/>
-  </a>
-  <a href="https://facebook.com/engrmujtabafarrukh">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=B026FF&color=B026FF&labelColor=000000" alt="Facebook"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029VaboZXLKbYMFfEXRKe1e">
-    <img src="https://img.shields.io/badge/WhatsApp_Channel-000000?style=for-the-badge&logo=whatsapp&logoColor=00FFCC&color=00FFCC&labelColor=000000" alt="WhatsApp Channel"/>
-  </a>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=MujtabaFarrukh/Scholarship-Application-Documents&type=Date)](https://star-history.com/#MujtabaFarrukh/Scholarship-Application-Documents)
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mujtabafarrukh)
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mujtabafarrukh)
+
+[![YouTube](https://img.shields.io/badge/YouTube-00F5FF?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@mujtabafarrukh)
+
+[![Facebook](https://img.shields.io/badge/Facebook-ff00ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engrmujtabafarrukh)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-00F5FF?style=for-the-badge&logo=whatsapp&logoColor=black)](https://whatsapp.com/channel/0029VaboZXLKbYMFfEXRKe1e)
+
 </div>
 
 ---
 
 <div align="center">
-  <p>
-    Built with a pursuit of excellence to help students achieve their international scholarship dreams.
-    <br/>
-    <br/>
-    <b>© 2026 Engr. Mujtaba Farrukh</b> — All documents remain the intellectual property of their respective authors.
-  </p>
+
+### 🌍 Helping Students Win Global Scholarships
+
+Built with the mission of making elite scholarship knowledge accessible.
+
+© 2026 Engr. Mujtaba Farrukh
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:2c5364,100:0f2027&height=120&section=footer"/>
