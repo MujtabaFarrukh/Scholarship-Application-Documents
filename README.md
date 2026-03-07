@@ -29,7 +29,7 @@ The most sophisticated open repository of real scholarship application materials
 
 ---
 
-# ✨ Why This Repository Exists
+<h2 align="center">✨ Why This Repository Exists</h2>
 
 Most students fail scholarships not because they are weak — but because **they have never seen a successful application.**
 
@@ -45,7 +45,7 @@ So you can **understand how elite applications are structured.**
 
 ---
 
-# 🧠 What You Will Find Here
+<h2 align="center">🧠 What You Will Find Here</h2>
 
 Elite Scholarship Resources
 
@@ -61,28 +61,28 @@ These are **real documents used in successful scholarship applications.**
 
 ---
 
-# 🌍 About the Creator
+<h2 align="center">🌍 About the Creator</h2>
 
-## Engr. Mujtaba Farrukh
+### Engr. Mujtaba Farrukh
 
 Electrical Engineer | Renewable Energy Specialist | Global Scholarship Recipient
 
 I have secured several **highly competitive international scholarships and admissions**, including:
 
-| Scholarship          | Institution            | Region   |
-| -------------------- | ---------------------- | -------- |
-| Erasmus Mundus EMJMD | European Consortium    | 🇫🇷 🇩🇪 🇪🇸 |
-| DAAD TGGS            | RWTH Aachen / KMUTNB   | 🇩🇪 🇹🇭    |
-| Türkiye Bursları     | Government Scholarship | 🇹🇷       |
-| KAIST                | KAIST University       | 🇰🇷       |
-| Universiti Malaya    | UM (QS #65)            | 🇲🇾       |
+| Scholarship          | Institution            | Region                                                                                                                                                                                                      |
+| :------------------- | :--------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Erasmus Mundus EMJMD | European Consortium    | <img src="https://flagcdn.com/w20/fr.png" width="16" alt="France"/> <img src="https://flagcdn.com/w20/de.png" width="16" alt="Germany"/> <img src="https://flagcdn.com/w20/es.png" width="16" alt="Spain"/> |
+| DAAD TGGS            | RWTH Aachen / KMUTNB   | <img src="https://flagcdn.com/w20/de.png" width="16" alt="Germany"/> <img src="https://flagcdn.com/w20/th.png" width="16" alt="Thailand"/>                                                                  |
+| Türkiye Bursları     | Government Scholarship | <img src="https://flagcdn.com/w20/tr.png" width="16" alt="Turkey"/>                                                                                                                                         |
+| KAIST                | KAIST University       | <img src="https://flagcdn.com/w20/kr.png" width="16" alt="South Korea"/>                                                                                                                                    |
+| Universiti Malaya    | UM (QS #65)            | <img src="https://flagcdn.com/w20/my.png" width="16" alt="Malaysia"/>                                                                                                                                       |
 
 I have also advanced through **PhD opportunities in:**
 
-🇺🇸 United States  
-🇪🇸 Spain  
-🇰🇷 South Korea  
-🇲🇾 Malaysia
+<img src="https://flagcdn.com/w20/us.png" width="16" alt="United States"/> United States<br/>
+<img src="https://flagcdn.com/w20/es.png" width="16" alt="Spain"/> Spain<br/>
+<img src="https://flagcdn.com/w20/kr.png" width="16" alt="South Korea"/> South Korea<br/>
+<img src="https://flagcdn.com/w20/my.png" width="16" alt="Malaysia"/> Malaysia<br/>
 
 Through these experiences I gained deep insight into:
 
@@ -92,7 +92,7 @@ Through these experiences I gained deep insight into:
 
 ---
 
-# � Current Resources
+<h2 align="center">💎 Current Resources</h2>
 
 ### Erasmus Mundus DREAM Program
 
@@ -102,7 +102,7 @@ More elite documents will be added soon.
 
 ---
 
-# 🧬 Future Expansions
+<h2 align="center">🧬 Future Expansions</h2>
 
 This repository will evolve into a **global scholarship knowledge base**, including:
 
@@ -115,7 +115,7 @@ This repository will evolve into a **global scholarship knowledge base**, includ
 
 ---
 
-# � For Scholarship Winners
+<h2 align="center">🏆 For Scholarship Winners</h2>
 
 If you have secured a **prestigious scholarship**, you are welcome to contribute your documents.
 
@@ -123,7 +123,7 @@ Together we can build the **largest scholarship resource library for students wo
 
 ---
 
-# ⚠ Academic Integrity
+<h2 align="center">⚠️ Academic Integrity</h2>
 
 These documents are shared **only for educational purposes.**
 
@@ -139,7 +139,7 @@ Your application must always be **authentic and original.**
 
 ---
 
-# ⭐ Support This Repository
+<h2 align="center">⭐ Support This Repository</h2>
 
 If this repository helped you even a little:
 
@@ -149,7 +149,7 @@ It allows more students to discover these resources.
 
 ---
 
-# 📈 Repository Growth
+<h2 align="center">📈 Repository Growth</h2>
 
 <div align="center">
 
@@ -159,7 +159,7 @@ It allows more students to discover these resources.
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
 <div align="center">
 
