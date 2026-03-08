@@ -1,4 +1,4 @@
-## SOP Samples
+## Real SOPs
 
 This folder contains elite Statements of Purpose (SOPs) from successful global scholarship applicants.
 

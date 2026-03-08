@@ -1,3 +1,3 @@
-## CV Samples
+## Academic CVs
 
-This folder will contain Academic CV templates and samples from successful scholarship applicants.
+This folder contains Academic CVs from successful scholarship applicants.

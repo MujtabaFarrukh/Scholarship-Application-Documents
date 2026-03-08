@@ -57,7 +57,7 @@ These are **real documents from people who have actually been selected and award
 Elite Scholarship Resources
 
 📄 Statement of Purpose (SOP)  
-📄 Academic CV Templates  
+📄 Academic CVs  
 📄 Motivation Letters  
 📄 Cover Letters  
 📄 Recommendation Letters  
@@ -104,7 +104,7 @@ Through these experiences I gained deep insight into:
 This repository will evolve into a **global scholarship knowledge base**, including:
 
 ✔ SOPs from multiple scholarship winners  
-✔ Professional CV templates  
+✔ Professional academic CVs  
 ✔ Winning scholarship essays  
 ✔ PhD research proposals  
 ✔ Internship applications  
