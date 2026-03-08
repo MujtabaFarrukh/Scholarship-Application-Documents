@@ -25,7 +25,7 @@ If this repository helped you even a little, please **Star the Repository** righ
 
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)
+[![Stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=00F5FF&cacheSeconds=0)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)
 [![Forks](https://img.shields.io/github/forks/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/network)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents)
 [![Follow](https://img.shields.io/github/followers/MujtabaFarrukh?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh)
@@ -47,6 +47,10 @@ If this repository helped you even a little, please **Star the Repository** righ
 [![Facebook](https://img.shields.io/badge/Facebook-ff00ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engrmujtabafarrukh)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-00F5FF?style=for-the-badge&logo=whatsapp&logoColor=black)](https://whatsapp.com/channel/0029VaboZXLKbYMFfEXRKe1e)
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mujtabafarrukh)
 
 </div>
 
