@@ -19,6 +19,10 @@ The most sophisticated open repository of real scholarship application materials
 
 ---
 
+<h2 align="center">⭐ Support This Repository</h2>
+
+If this repository helped you even a little, please **Star the Repository** right now! It gives the project more visibility so other students can discover these resources.
+
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)
@@ -27,12 +31,6 @@ The most sophisticated open repository of real scholarship application materials
 [![Follow](https://img.shields.io/github/followers/MujtabaFarrukh?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh)
 
 </div>
-
----
-
-<h2 align="center">⭐ Support This Repository</h2>
-
-If this repository helped you even a little, please **Star the Repository** right now! It allows more students to discover these resources.
 
 ---
 
