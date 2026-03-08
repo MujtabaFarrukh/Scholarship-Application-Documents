@@ -34,6 +34,24 @@ If this repository helped you even a little, please **Star the Repository** righ
 
 ---
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=white&v=4)](https://linkedin.com/in/mujtabafarrukh)
+
+[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mujtabafarrukh)
+
+[![YouTube](https://img.shields.io/badge/YouTube-00F5FF?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@mujtabafarrukh)
+
+[![Facebook](https://img.shields.io/badge/Facebook-ff00ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engrmujtabafarrukh)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-00F5FF?style=for-the-badge&logo=whatsapp&logoColor=black)](https://whatsapp.com/channel/0029VaboZXLKbYMFfEXRKe1e)
+
+</div>
+
+---
+
 <h2 align="center">✨ Why This Repository Exists</h2>
 
 Most students fail scholarships not because they are weak, but because **they have never seen a successful application.**
@@ -141,24 +159,6 @@ Your application must always be **authentic and original.**
 <div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=MujtabaFarrukh/Scholarship-Application-Documents&type=Date&legend=top-left)](https://star-history.com/#MujtabaFarrukh/Scholarship-Application-Documents&Date)
-
-</div>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mujtabafarrukh)
-
-[![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mujtabafarrukh)
-
-[![YouTube](https://img.shields.io/badge/YouTube-00F5FF?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@mujtabafarrukh)
-
-[![Facebook](https://img.shields.io/badge/Facebook-ff00ff?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/engrmujtabafarrukh)
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-00F5FF?style=for-the-badge&logo=whatsapp&logoColor=black)](https://whatsapp.com/channel/0029VaboZXLKbYMFfEXRKe1e)
 
 </div>
 
