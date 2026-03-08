@@ -24,6 +24,7 @@ The most sophisticated open repository of real scholarship application materials
 [![Stars](https://img.shields.io/github/stars/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/stargazers)
 [![Forks](https://img.shields.io/github/forks/MujtabaFarrukh/Scholarship-Application-Documents?style=for-the-badge&logo=github&color=ff00ff)](https://github.com/MujtabaFarrukh/Scholarship-Application-Documents/network)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MujtabaFarrukh.Scholarship-Application-Documents)
+[![Follow](https://img.shields.io/github/followers/MujtabaFarrukh?style=for-the-badge&logo=github&color=00F5FF)](https://github.com/MujtabaFarrukh)
 
 </div>
 
