@@ -152,7 +152,7 @@ Your application must always be **authentic and original.**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/mujtabafarrukh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/mujtabafarrukh)
 
 [![Instagram](https://img.shields.io/badge/Instagram-ff00ff?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mujtabafarrukh)
 
